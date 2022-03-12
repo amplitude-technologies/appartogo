@@ -27,3 +27,5 @@ We believe that it is critical to contribute positively to our community. And we
 | [Montérégie](https://appartogo.com/en/statistics?region=monteregie) | 407 | 1 016$ | 1 215$ | 1 521$ | 1 716$ | 2 120$ |
 | [Outaouais](https://appartogo.com/en/statistics?region=outaouais) | 229 | 885$ | 1 067$ | 1 561$ | 1 714$ | 1 888$ |
 | [Saguenay-Lac-Saint-Jean](https://appartogo.com/en/statistics?region=saguenay-lac-saint-jean) | 26  | 582$ | 774$ | 1 021$ | 2 435$ | 1 713$ |
+
+[French version](https://appartogo.com/statistiques)
