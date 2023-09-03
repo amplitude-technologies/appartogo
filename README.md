@@ -1,5 +1,5 @@
 # About us
-Appartogo is a rental apartment search engine that combines rental ads published on different websites in a single simple and easy-to-use platform.
+[Appartogo](https://appartogo.com) is a rental apartment search engine that combines rental ads published on different websites in a single simple and easy-to-use platform.
 
 We created Appartogo in order to simplify the search for an apartment to rent. You can customize your searches using our search filters and then view the results on an interactive map of Québec.
 
